@@ -1,0 +1,23 @@
+{
+  "name": "myawesomeproject",
+  "version": "1.0.0",
+  "description": "awesome nga project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/avillarubia/myawesomeproject.git"
+  },
+  "keywords": [
+    "awesome",
+    "project"
+  ],
+  "author": "aljohn villarubia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/avillarubia/myawesomeproject/issues"
+  },
+  "homepage": "https://gitlab.com/avillarubia/myawesomeproject#readme"
+}
