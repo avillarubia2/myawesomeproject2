@@ -1,11 +1,6 @@
 const print = ''
-const print = ''
-const print = ''
-const print = ''
-const print = ''
 
 const print = () => {
-    print = 'Hello'
-    print = 'Hello'
+    const print = 'Hello'
     console.log(print)
 }
