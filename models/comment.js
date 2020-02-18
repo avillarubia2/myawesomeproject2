@@ -31,7 +31,7 @@ const schema = new mongoose.Schema(
 );
 
 function validateComment(req) {
-  const schema = {
+  const joiSchema = {
     parent_id: Joi.string(),
     topic_id: Joi.string()
       .required(),
@@ -48,7 +48,7 @@ function validateComment(req) {
       Joi.objectId())
   };
 
-  return Joi.validate(req, schema);
+  return Joi.validate(req, joiSchema);
 }
 
 const Comment = mongoose.model("Comment", schema);
