@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/avillarubia/myawesomeproject.git"
+    "url": "git+https://gitlab.com/avillarubia2/myawesomeproject.git"
   },
   "keywords": [
     "awesome",
@@ -17,7 +17,7 @@
   "author": "aljohn villarubia",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/avillarubia/myawesomeproject/issues"
+    "url": "https://gitlab.com/avillarubia2/myawesomeproject/issues"
   },
-  "homepage": "https://gitlab.com/avillarubia/myawesomeproject#readme"
+  "homepage": "https://gitlab.com/avillarubia2/myawesomeproject#readme"
 }
