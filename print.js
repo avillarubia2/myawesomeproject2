@@ -1,3 +1,6 @@
+const print = ''
+
 const print = () => {
-    console.log('Hi!')
+    print = 'Hello'
+    console.log(print)
 }
